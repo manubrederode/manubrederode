@@ -1,5 +1,11 @@
 ## Welcome to Manu Brederode profile ✨
 
+Driven by a passion for technology, I'm a marketeer embarking on an exciting journey into software development. My background in marketing equips me with unique insights into user behavior and customer needs, which I am eager to apply in creating intuitive and impactful software solutions.
+
+Join me as I transition into this dynamic field and strive to become a versatile and accomplished software developer.
+
+Ready to code the future, one line at a time!
+
  <div>
    <a href="https://github.com/manubrederode">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manubrederode&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true"/>
